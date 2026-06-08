@@ -1,7 +1,7 @@
-[README.md](https://github.com/user-attachments/files/28684083/README.md)
+[README.md](https://github.com/user-attachments/files/28697093/README.md)
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=0f3460&height=200&section=header&text=Sitharthan%20Kavibarath&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Researcher&descAlignY=58&descColor=a0aec0)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a0533,100:0d2137&height=200&section=header&text=Sitharthan%20Kavibarath&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Tech%20Explorer%20%7C%20Designer%20%7C%20AI%20Researcher&descAlignY=58&descColor=5eead4&descSize=20)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Kavibarath&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square)](https://github.com/Kavibarath)
 [![Repos](https://img.shields.io/badge/REPOSITORIES-5-blue?style=flat-square&logo=github)](https://github.com/Kavibarath?tab=repositories)
@@ -79,7 +79,7 @@ const profile = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavibarathsitharthan)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samsithu100@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavibarath004@gmail.com)
 
 </div>
 
